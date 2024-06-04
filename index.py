@@ -33,5 +33,4 @@ if uploaded_file:
         st.write(f"Degrees of freedom: {dof}")
         st.write("Expected frequencies:")
         st.write(expected)
-        st.write("언제나 선생님의 행복을 바라며 기도합니다. 말뿐만 아니라 저도 노력하겠습니다. 힘내세요!!")
 
